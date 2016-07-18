@@ -1,6 +1,6 @@
-# class-projects-template
+# savi702-summer2016
 
-A Jekyll site for a class final projects site.
+A site for SAVI 702's final projects for the Summer 2016 term.
 
 ## Credits
 

@@ -1,19 +1,18 @@
 # Site settings
 class:
-  short: CLASS_SHORT
-  link: CLASS_LINK
-  long: CLASS_LONG
-  term: TERM
+  short: SAVI-702
+  long: Introduction to GIS with QGIS
+  term: Summer 2016
 school:
-  name: SCHOOL_NAME
-  link: SCHOOL_LINK
+  name: Pratt SAVI
+  link: https://www.pratt.edu/pratt-research-and-centers/spatial-analysis-visualization-initiative/
 email:
 description: > # this means to ignore newlines until "baseurl:"
   DESCRIPTION
-baseurl: /class-projects-template/
-url: http://ebrelsford.github.io
-twitter_username:
-github_username:  GITHUB_USERNAME
+baseurl: /summer2016/
+url: http://pratt-savi-702.github.io
+twitter_username: PrattSAVI
+github_username:  pratt-savi-702
 
 # Build settings
 markdown: kramdown
