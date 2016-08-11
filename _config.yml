@@ -17,6 +17,8 @@ github_username:  pratt-savi-702
 # Build settings
 markdown: kramdown
 
+exclude: [ruby]
+
 # Collections
 collections:
   projects:
